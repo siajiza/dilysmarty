@@ -1,0 +1,27 @@
+.body{
+    background-color: beige;
+    font-family: 'LatoLight', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 0;
+    color: lightslategray;
+}
+
+h1, h2, h3 {
+    font-family: 'LatoBold';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: lighter, bold;
+    color: #4a4a4a;
+}
+
+p {
+    color: #212529;
+    font-size: 16px;
+    font-style: italic;
+    text-align: justify;
+    
+}
+
